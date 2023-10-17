@@ -36,6 +36,9 @@ hr {
     /* shape-outside: circle(60%); */
     border: solid 2px var(--my-color);
 }
+ul {
+    padding-left: 3px;
+}
 .fio {
     font-family: "Inter", sans-serif;
     font-size: 2rem;
@@ -43,11 +46,10 @@ hr {
     width: 10px;
 }
 img[alt="telegram-logo"], img[alt="vk-logo"] {
-    height: 30px;
-    width: 30px;
+    height: 35px;
+    width: 35px;
 }
 .text {
-    padding-left: 30px;
     list-style-type: circle;
     list-style: none;
 }
